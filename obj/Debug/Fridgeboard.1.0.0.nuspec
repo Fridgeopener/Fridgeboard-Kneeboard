@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Fridgeboard</id>
+    <version>1.0.0</version>
+    <authors>Fridgeboard</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows10.0.19041">
+        <dependency id="Microsoft.Windows.SDK.BuildTools" version="10.0.22621.3233" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.WindowsAppSDK" version="1.5.240428000" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net8.0-windows10.0.19041/Assets/AppIcon.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="Z:\VS Project\Pilot Kneeboard (WinUI 3)\bin\x64\Debug\net8.0-windows10.0.19041.0\Fridgeboard.runtimeconfig.json" target="lib\net8.0-windows10.0.19041\Fridgeboard.runtimeconfig.json" />
+    <file src="Z:\VS Project\Pilot Kneeboard (WinUI 3)\bin\x64\Debug\net8.0-windows10.0.19041.0\Fridgeboard.dll" target="lib\net8.0-windows10.0.19041\Fridgeboard.dll" />
+    <file src="Z:\VS Project\Pilot Kneeboard (WinUI 3)\bin\x64\Debug\net8.0-windows10.0.19041.0\Fridgeboard.pri" target="lib\net8.0-windows10.0.19041\Fridgeboard.pri" />
+    <file src="Z:\VS Project\Pilot Kneeboard (WinUI 3)\Assets\AppIcon.ico" target="content\Assets\AppIcon.ico" />
+    <file src="Z:\VS Project\Pilot Kneeboard (WinUI 3)\Assets\AppIcon.ico" target="contentFiles\any\net8.0-windows10.0.19041\Assets\AppIcon.ico" />
+  </files>
+</package>
