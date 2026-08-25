@@ -25,6 +25,10 @@ this chat/sandbox.
   search "Windows App SDK")
 - .NET 8 SDK
 
+## Screenshot
+
+![description](img/Screenshot-2026-08-25-174618.png)
+
 ## Credit(s)
 
 This code is mostly written using Claude AI. 
