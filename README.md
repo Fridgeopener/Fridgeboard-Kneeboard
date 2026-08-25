@@ -16,10 +16,6 @@ before you fly and reload it mid-session if the app restarts.
 ## Requirements
 
 - Windows 10 (1809+) or Windows 11
-- Visual Studio 2022 (17.9+) with the **".NET Desktop Development"** and
-  **"Windows App SDK C# Templates"** workloads
-  (installable via Visual Studio Installer → Individual Components →
-  search "Windows App SDK")
 - .NET 8 SDK
 
 ## Screenshot
