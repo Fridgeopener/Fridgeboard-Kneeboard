@@ -15,8 +15,11 @@ before you fly and reload it mid-session if the app restarts.
 
 ## Requirements
 
-- Windows 10 (1809+) or Windows 11
-- .NET 8 SDK
+- Windows 10 (build 17763+) or Windows 11
+- x64 or ARM64 processor (matching your download)
+- **Windows App SDK 1.5 Runtime** — required, not bundled
+  → Download: https://learn.microsoft.com/en-us/windows/apps/windows-app-sdk/downloads-archive
+  (grab the 1.5 installer for your architecture)
 
 ## Screenshot
 
