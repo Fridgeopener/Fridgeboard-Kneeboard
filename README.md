@@ -15,9 +15,6 @@ before you fly and reload it mid-session if the app restarts.
 
 ## Requirements
 
-This is a native Windows app — it must be built and run on Windows, not in
-this chat/sandbox.
-
 - Windows 10 (1809+) or Windows 11
 - Visual Studio 2022 (17.9+) with the **".NET Desktop Development"** and
   **"Windows App SDK C# Templates"** workloads
