@@ -1,4 +1,4 @@
-# Pilot Kneeboard (WinUI 3)
+# Fridgeboard (Pilot Kneeboard)
 
 A simple digital kneeboard for flight simmers. One card holds:
 
@@ -24,3 +24,7 @@ this chat/sandbox.
   (installable via Visual Studio Installer → Individual Components →
   search "Windows App SDK")
 - .NET 8 SDK
+
+## Credit(s)
+
+This code is mostly written using Claude AI. 
